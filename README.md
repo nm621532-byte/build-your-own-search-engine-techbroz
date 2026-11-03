@@ -17,6 +17,7 @@ python search.py
 
 📚 Full tutorials (Build your own Search Engine): https://github.com/codecrafters-io/build-your-own-x#build-your-own-search-engine
 
-🎬 YouTube video: link soon
+🎬 YouTube video: https://www.youtube.com/shorts/Ym94vbHJZSc
+📸 Instagram Reel: https://www.instagram.com/reel/DfRhxVBCVkX/
 
 Made by Tech Bro Z — YouTube @techbrozdeveloper, Instagram @tech_bro_z_1
